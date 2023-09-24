@@ -1,9 +1,6 @@
 #include <iostream>
 #include <string>
-#include <vector>
 #include <cstdint>
-#include <future>
-#include <functional>
 #include <ws2tcpip.h>
 #include <ws2def.h>
 

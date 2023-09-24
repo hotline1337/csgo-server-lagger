@@ -147,7 +147,7 @@
       <EnableEnhancedInstructionSet>AdvancedVectorExtensions2</EnableEnhancedInstructionSet>
       <GuardEHContMetadata>true</GuardEHContMetadata>
       <OptimizeForWindowsApplication>false</OptimizeForWindowsApplication>
-      <OpenMP>None</OpenMP>
+      <OpenMP>GenerateParallelCode</OpenMP>
       <Optimization>MaxSpeedHighLevel</Optimization>
       <ExceptionHandling>Sync</ExceptionHandling>
       <EnableSyclOffload>false</EnableSyclOffload>
